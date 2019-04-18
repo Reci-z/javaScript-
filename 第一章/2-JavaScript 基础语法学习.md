@@ -1,6 +1,6 @@
 #  JavaScript 基础语法
 
-![timg (1)](/2/timg (1).jpg)
+![timg (1)](2/timg (1).jpg)
 
 
 
